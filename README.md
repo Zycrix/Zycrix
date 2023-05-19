@@ -8,4 +8,4 @@ From my studies so far i've learnt html, css and javascript, we've also worked a
 
 ### Portfolio
 
-View my portfolio site here: https://zycrix.github.io/ (Work in progress)
+View my portfolio site here: http:kmprojects.no (Work in progress)
