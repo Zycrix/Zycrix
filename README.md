@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Kristoffer Mikkelsen. I'm a front-end student at Noroff school of technology and digital media from Stavanger, Norway. For now i'm mainly focused on the front-end technologies but my end goal is to go fullstack.
+My name is Kristoffer Mikkelsen. I'm a front-end student at Noroff school of technology and digital media from Stavanger, Norway. 
 
 ## Experience
 
